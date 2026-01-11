@@ -8,11 +8,21 @@
 
 <p align="center">
   <a href="https://github.com/refatbd" target="_blank">
-    <img src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
+    <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
   </a>
   <a href="mailto:rjrefat@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://linkedin.com/in/refatbd" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://refat.ovh" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=refatbd&label=Profile%20Views&color=blue&style=flat" alt="refatbd" />
 </p>
 
 ## About Me
@@ -33,14 +43,20 @@ I am a passionate Web Developer from Bangladesh 🇧🇩, specializing in PHP-ba
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/refatbd">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=refatbd&show_icons=true&locale=en&theme=radical" alt="Refat Rahman's GitHub Stats" />
-  </a>
+  <img src="https://raw.githubusercontent.com/refatbd/refatbd/output/snake.svg" alt="Snake Animation" />
 </p>
+
 <p align="center">
-  <a href="https://github.com/refatbd">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=refatbd&layout=compact&locale=en&theme=radical" alt="Refat Rahman's Top Languages" />
-  </a>
+  <img src="https://raw.githubusercontent.com/refatbd/refatbd/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/refatbd/refatbd/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/refatbd/refatbd/main/profile-summary-card-output/radical/4-productive-time.svg" alt="Productive Time" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/refatbd/refatbd/main/profile-summary-card-output/radical/3-stats.svg" alt="Stats" />
 </p>
 
 ---
